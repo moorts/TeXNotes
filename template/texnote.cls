@@ -51,6 +51,7 @@
 \newtheorem{cor}[definition]{Corollary}
 \newtheorem{rmk}[definition]{Remark}
 \newtheorem{conj}[definition]{Conjecture}
+\newtheorem{exer}[definition]{Exercise}
 
 \usepackage{ifthen}
 
